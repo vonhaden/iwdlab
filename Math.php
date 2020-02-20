@@ -23,6 +23,9 @@ class Math {
 		$sum = $num1 + $num2;
 		return $sum;
 	}
+	public static function sreynolds9(){
+		return 'hi';
+}
 	
 	public static function lzache(){}
 

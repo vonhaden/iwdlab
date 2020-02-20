@@ -24,4 +24,6 @@ class Math {
 		return $sum;
 	}
 	
+	public static function lzache(){}
+
 }

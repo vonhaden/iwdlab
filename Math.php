@@ -29,9 +29,9 @@ class Math {
     // This says hi
 	public static function sreynolds9(){
 		return 'hi';
-}
+    }
 
-	// This says hi
+	// This function was added by Stephany
 	public static function lab1sr(){
 		$math = 1 + 2;
 		return $math;
@@ -39,12 +39,10 @@ class Math {
 	
     // This does nothing
 	public static function lzache(){}
-
-}
-
-	public static function lzache2(){
+    
+    // This function was added by Lauren
+    public static function lzache2(){
 		return 'sup';
-
-}
+    }
 
 }

@@ -19,14 +19,19 @@ class Math {
 	 * @param float $b
 	 * @return float
 	 */
+    
+    // Wow, this adds!
 	public static function add($num1, $num2){
 		$sum = $num1 + $num2;
 		return $sum;
 	}
+    
+    // This says hi
 	public static function sreynolds9(){
 		return 'hi';
 }
 	
+    // This does nothing
 	public static function lzache(){}
 
 }

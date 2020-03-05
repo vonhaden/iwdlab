@@ -30,6 +30,12 @@ class Math {
 	public static function sreynolds9(){
 		return 'hi';
 }
+
+	// This says hi
+	public static function lab1sr(){
+		$math = 1 + 2;
+		return $math;
+	}
 	
     // This does nothing
 	public static function lzache(){}

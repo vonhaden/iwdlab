@@ -36,11 +36,6 @@ class Math {
 		$math = 1 + 2;
 		return $math;
 	}
-
-	public static function lab2sr(){
-		$math2 = 1 + 2;
-		return $math2;
-	}
 	
     // This does nothing
 	public static function lzache(){}

@@ -50,4 +50,9 @@ class Math {
 		return 'sup';
     }
 
+Public static function lzache3() {
+	return 'secrets';
+}
+
+
 }

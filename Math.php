@@ -41,3 +41,10 @@ class Math {
 	public static function lzache(){}
 
 }
+
+	public static function lzache2(){
+		return 'sup';
+
+}
+
+}
